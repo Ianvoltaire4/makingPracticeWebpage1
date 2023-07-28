@@ -1,0 +1,41 @@
+p{
+    color:blue
+}
+b{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(255, 89, 89);
+    text-align: center;
+    text-decoration: underline;
+    border: 2px;
+    padding: 5px;
+    border-color:rgb(250, 21, 21);
+}
+button{
+    color: rgb(0, 13, 255);
+    border-radius: 6px;
+    padding: 4px;
+    background-color:pink;
+    border-color:pink;
+    border: 10px;
+}
+:link{
+    color: blue;
+}
+
+:visited{
+    color:purple;
+    reset
+}
+
+link:hover{
+    color:red;
+    text-decoration: underline;
+    
+}
+
+button:hover{
+    color: red;
+    text-decoration: underline;
+}
